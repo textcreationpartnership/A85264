@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wing-clipping no crime being an answer to B. Bird's reply to The wandering bird's wings clipp'd.</title>
+            <author>Field, John, 1652-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85264</idno>
+            <idno type="STC">Wing F869</idno>
+            <idno type="STC">ESTC R177048</idno>
+            <idno type="EEBO-CITATION">45789311</idno>
+            <idno type="OCLC">ocm 45789311</idno>
+            <idno type="VID">172620</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85264)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172620)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2641:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Wing-clipping no crime being an answer to B. Bird's reply to The wandering bird's wings clipp'd.</title>
+                  <author>Field, John, 1652-1723.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Northcott ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: John Feild [i.e. John Field].</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bird, Benjamin.</term>
+               <term>Field, John, 1652-1723. --  Wandring bird's wings clipt: or, A reply to Benjamin Bird Catholick his pagan designs.</term>
+               <term>Society of Friends --  England --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172620:1" rendition="simple:additions"/>
+            <p>
+               <hi>Wing-Clipping</hi> NO CRIME: BEING AN ANSWER TO B. Bird's Reply TO THE <hi>Wandering Bird's Wings Clipp'd.</hi>
+            </p>
+            <q>
+               <bibl>Prov. 10.32.</bibl>
+               <p>The Mouth of the Wioked ſpeaketh Fro<g ref="char:EOLhyphen"/>wardneſs.</p>
+            </q>
+            <q>
+               <bibl>Iſa. 5.27.</bibl>
+               <p>As a Cage is full of Birds, ſo are their Houſes full of Deceit.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas Northcott,</hi> in <hi>George-yard</hi> in <hi>Lombard-ſtreet.</hi> 1696.</p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:172620:2"/>
+            <p>THere are yet many unclean Birds, and Remains of the Seeds of evil Doers, of whom the Lord hath ſaid, <hi>They ſhall never be Renowned,</hi> that are exerciſed in their evil Works of ſpeaking falſly, and miſrepreſenting a deſpiſed People, that the great God, in his rich Love, through Jeſus Chriſt his Son, hath viſited with his divine Light, and quickned by his eternal Spirit, and unto whom its given not only to believe, but alſo to ſuffer for his Name-ſake, in and through whom, and by what he hath done and ſuf<g ref="char:EOLhyphen"/>fer'd, even Jeſus of <hi>Nazareth,</hi> concerning whom there was a Murmurring among the People in Days paſt, of whom ſome have ſaid, he was a good Man, and others ſaid Nay; but he deceived the People, and ſo have ſome ſaid of us his Followers, and of his Miniſters in theſe Days, as they did of the Apoſtles in Days paſt, who were counted Decei<g ref="char:EOLhyphen"/>vers, and yet True; and went through evil Report and good Report; yet in all things approved themſelves the Mini<g ref="char:EOLhyphen"/>ſters of God in much Patience, as do his in this day; yet doubt not, but as they live and abide in him, they ſhall not only be hated of Men, ſeparated from and reproached, (and all manner of Evil ſpoken againſt them falſely for his Name-ſake) but ſhall alſo partake of his Bleſſing, al<g ref="char:EOLhyphen"/>tho' they may have Curſes from that evil Generation and Seed of evil Doers, yet they firmly believe the Lord of Hoſts will perform his Word, <hi>Iſa. 12.23. And riſe up againſt them, and cut off from</hi> Babylon, <hi>the Name and Rem<g ref="char:EOLhyphen"/>nant, Son and Nephew, and will alſo make it a Poſſeſſi<g ref="char:EOLhyphen"/>on for the Bitterns and Pools of Water, and will ſweep it with the Beſom of Deſtruction,</hi> as ſaid the Lord of Hoſt.</p>
+            <p>And although <hi>Gog</hi> and <hi>Magog, Runagates</hi> and <hi>Apo<g ref="char:EOLhyphen"/>ſtates,</hi> may take Counſel together, I firmly believe it ſhall come to naught; and altho' they ſpeak the Word, it ſhall not ſtand; <hi>For God is with us.</hi>
+            </p>
+            <trailer>Now to <hi>B. Bird</hi>'s Pamphlet.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:172620:2"/>
+            <head>Wing-Clipping no Crime, &amp;c.</head>
+            <p>HAving clipt a wandering Bird's Wings, he's now angry and retorts, and ſaith, <q>There have been many Clippers hanged lately; and that I ſhould have forborn Clipping this Year for Luck's ſake.</q>
+            </p>
+            <p>Howbeit, I fear not that Fate for clipping his Wings; neither can he prove that any have been Hanged this Year or laſt, for that kind of Clipping.</p>
+            <p>But now he cannot flye as he would, he flutters and makes a Noiſe, and ſhews what he would do if he could, <hi>viz.</hi> Con<g ref="char:EOLhyphen"/>fute what I ſaid; which he is ſo far from, that he don't ad<g ref="char:EOLhyphen"/>venture againſt a part of it, but fluttters and chatters, and as confidently as ignorantly, pretends to do that which he is not able, now his Wings are clipt, <hi>viz.</hi> To prove from Scripture and Experience, That Chriſt, the true Light that lighteth every Man that cometh into the World (who ſaid, <hi>I am the Light of the World</hi>) is not above the Scriptures: For his aſſerting the contrary, would render him that hath built the Houſe, leſs honourable than the Houſe; or that Spirit which inſpired the Holy Men to write the Scriptures, not above, but inferior to the Scriptures. And for proof, that the Scriptures is above Chriſt, and that my denying it is contrary to Scripture, he quotes 2 <hi>Cor.</hi> 4.4. <hi>The God of this World hath blinded the minds of them that believe not, leſt the Light of the glorious Goſpel of Chriſt, who is the Image of God, ſhould ſhine into them.</hi>
+            </p>
+            <p>Now, how this proves that its contrary to Scripture, to ſay, That Chriſt the Light, is above the Scriptures, I ſhall leave thoſe that are acquainted therewith to judge: And whether this doth not rather prove, that he joyns with the God of this World, as much as in him lieth, to blind People's Minds, and beget a ſlight in them to the Light of the glo<g ref="char:EOLhyphen"/>rious Goſpel, leſt it ſhould ſhine unto them, and they ſhould believe therein.</p>
+            <pb n="4" facs="tcp:172620:3"/>
+            <p>Again he aſſerts, with his confident <hi>ipſe dixit,</hi> it's con<g ref="char:EOLhyphen"/>trary to Experience, that Chriſt the Light is above the Scriptures. And for proof ſaith, <hi>W. Pen</hi> in his account of the <hi>Indians</hi> in <hi>Penſilvania,</hi> tells us, <q>They are very ignorant in Matters of Religion, <hi>pag.</hi> 2.</q>
+            </p>
+            <p>Is not this a notable Proof, becauſe the <hi>Indians</hi> are igno<g ref="char:EOLhyphen"/>rant in Matters of Religion, therefore Chriſt (that Light) whom I affirmed was preferrable to, or above the Scriptures, is not above the Scripture, but contrary to both the Scri<g ref="char:EOLhyphen"/>pture and Experience? This puts me in mind of a Queſtion he asks in <hi>p.</hi> 6. How long may a poor Pariſh Miniſter Preach before he make up a Purſe? <hi>Anſw.</hi> Long enough, if he be no better than he, by his Writing, appears to be. And if he hath no better than this to give People, he need not com<g ref="char:EOLhyphen"/>plain of my ſaying, That he, and ſuch as he, cauſe People to ſpend Mony for that which is not Bread; as in <hi>p.</hi> 7.</p>
+            <p>But if <hi>B. B.</hi> ſhould ſay that he did not ſay, Chriſt was not above the Scriptures, but the Light within, which we pro<g ref="char:EOLhyphen"/>feſs; then I charge him to ſhow where, in any of my for<g ref="char:EOLhyphen"/>mer, I preferred any Light within, but Chriſt above the Scriptures. And let him, if he can, prove that Chriſt is, or can be, any more divided or ſeparated from his Light within Men, than from his Spirit.</p>
+            <p>And being <hi>B. B.</hi> mentions our Yearly Meeting, 1694. <hi>p.</hi> 1 and <hi>p.</hi> 5. falſly and wickedly ſaith, <q>That we would lay aſide the Lord that bought us, who is now in Heaven at the right Hand of God, for the Imagination of our own Hearts,</q> 
+               <hi>p.</hi> 7. where he alſo ſpeaketh of <hi>G. K.</hi> I will here inſert what <hi>G. K.</hi> ſaid in 1694. <hi>viz. That the Light within being God, the Word and the Spirit, in every Man, is ſufficient to reveal to every Man all that's needful to his eternal Salvation;</hi> which let <hi>B. B.</hi> confute if he can, and ſhew whether <hi>G. K.</hi> doth not exalt the Light within, above the Scriptures, as much as we; and then let him conſider, whether we deny the Lord that bought us, becauſe we own Chriſt to be ſpiritually in our Hearts.</p>
+            <div type="part">
+               <head>Concerning the Scripture.</head>
+               <p>
+                  <hi>P.</hi> 2. <hi>B. B.</hi> ſaith, <q>You pretend you have an honourable Eſteem of theſe Holy Writings, and account them the beſt in all the World; and yet you diſhonour the Scriptures
+<pb n="5" facs="tcp:172620:3"/>very much by crying up a Light within every Man above them: And what is this but a Pagan Deſign, to bring Men back to Paganiſm?</q> And then he adds, <q>The Light within is not above the Scriptures.</q>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> We have an honourable Eſteem for the Holy Scriptures, and do ſo eſteem them as above: But I deny that we diſhonour them, by giving preference to Chriſt, any more than himſelf did, when he ſaid, <hi>Search the Scri<g ref="char:EOLhyphen"/>ptures, for in them ye think ye have eternal Life, and they are they which teſtifie of me. And ye will nor come to me that ye might have Life.</hi> So we deſire that People would read and ſearch the Scriptures, which teſtifie of him, as we alſo do, and would not have People think they can have eternal Life by them; for altho' they teſtifie of him, yet they muſt come to him if they would have Life. And if this be a Pagan Deſign, we are guilty thereof; but if not, then <hi>B. B.</hi> is a <hi>falſe</hi> Accuſer and Aſſerter, in ſaying, <q>The Light within, <hi>i. e.</hi> Chriſt, is not above the Scriptures.</q> As alſo he is for ſaying, <q>That God hath made the Scri<g ref="char:EOLhyphen"/>pture-Light, Judge of our Light within;</q> becauſe the Scripture ſaith, <hi>The Father hath committed all Judgment to the Son, who is that Light that we prefer and own.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Toncerning Perfection.</head>
+               <p>
+                  <hi>P.</hi> 2. <hi>B. B.</hi> ſaith our Doctrin, <q>That no Man ever lived upon Earth <hi>without Sin,</hi> except the Man Chriſt Jeſus; thou calleſt a Sin-pleaſing Doctrin.</q>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Here he varies his Poſition; I did not ſay ſo, but did oppoſe his ſaying, <q>That we may keep our Allegiance to Chriſt, altho' we cannot live without tranſgreſſing God's Law:</q> And his ſaying, <q>It's impoſſible, while here, per<g ref="char:EOLhyphen"/>fectly to keep his Commandments: And that they may not live without Sin.</q> It was on this I ſaid, our Allegi<g ref="char:EOLhyphen"/>ance to God and Chriſt is Truth and Faithfulneſs, in whom as we believe and are obedient; we are by the Grace of God and Spirit of Chriſt, enabled to diſcharge our Duty to God. But to aſſert, It's IMPOSSIBLE for Chri<g ref="char:EOLhyphen"/>ſtians, while here, perfectly to perform their Duty to God, and that we <hi>may not</hi> live without Sin, renders not only the Chriſtian Worſhip and Service, in all the parts of it, im<g ref="char:EOLhyphen"/>perfect,
+<pb n="6" facs="tcp:172620:4"/>but alſo renders the Devil more powerful to lead and keep People in Sin, than Chriſt Jeſus (to whom all Power both in Heaven and Earth is given) is to lead and keep People out of Sin. And in <hi>p.</hi> 3. he ſaith, <q>Thy Do<g ref="char:EOLhyphen"/>ctrin of living without Sin, or breaking God's Commands, is a ſin-pleaſing Doctrin.</q>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I deny that its a ſin pleaſing Doctrin to teach, That by Chriſt Jeſus (who came to deſtroy the Works of the Devil, and to put an end to ſin) Man may be enabled, to keep God's Command; but its rather a Chriſt-pleaſing Doctrin; for he ſaid, <hi>Be ye Perfect as your Heavenly Father is Perfect;</hi> and its ſaid, <hi>Be ye Holy, for I the Lord your God am Holy.</hi> And in the ſame, <hi>p.</hi> 3. <hi>B. B.</hi> ſaith, <q>I do believe that it is Man's duty to ſerve God truly, and this good Men do, and yet cannot acquit themſelves of Sin.</q>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I agree with him if he means by any Power or Strength of their own, but that, that which make good Men ſuch, is not ſufficient to enable them to acquit them<g ref="char:EOLhyphen"/>ſelves of Sin. I deny, yet am of his Mind thus far when he ſaith, God's Commands are not grievous to good Men, they keep them with all their Hearts, but diſſent from him in his ſaying, They fail in the keeping of them, and that they may not live without Sin; as if there were a neceſſi<g ref="char:EOLhyphen"/>ty for Men to Sin. This is ſuch a piece of Contradiction and Nonſenſe, that I think, none but one without Senſe would aſſert, as <hi>B. B.</hi> hath. And that alſo where he ſaith, <q>We may keep our Allegiance to Chriſt, although we can<g ref="char:EOLhyphen"/>not live without tranſgreſſing God's Law.</q> And to this Head in my former Reply, <hi>p.</hi> 5, 6, 7. I have writ fully, to which I refer; and in his next adviſe him to bring one Scripture if he can, to prove, That its impoſſible while here, perfectly to keep God's Commands, through the help and aſſiſtance of Jeſus Chriſt; or that there is a <hi>neceſſity</hi> for true Chriſtians to ſin, ſo long as they live in this World; and that good Men keep God's Commands withal their Hearts, yet they fail in the keeping of them; and then I may lay my Hand on my Mouth, or ſay, <hi>Erit mibi magnus Apollo.</hi>
+               </p>
+               <p>And for <hi>B. B.</hi>'s. ſaying, <hi>p</hi> 3. <q>That the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> lifted King <hi>James</hi> upon the Throne, and aſſerted his Right of Succeſſion, though the Houſe of Commons voted, That there was no paſſibility of preſerving the Life of
+<pb n="7" facs="tcp:172620:4"/>King <hi>Charles</hi> II. while the Papiſts had any hopes of the Duke's thus Succeeding him.</q>
+               </p>
+               <p>I may only <hi>Anſwer,</hi> I eſteem it no concern of mine, either to life him upon the Throne, or put him from it; and, if the Church of <hi>England</hi> were concerned in both, and eſteem it their Honour, and agreeable to the Doctrin of Non-reſi<g ref="char:EOLhyphen"/>ſtance and Paſſive Obedience, let them anſwer for that, and prove it; for its not my Buſineſs to vindicate: Nor the Murder of his Father, or to tell who were concerned there<g ref="char:EOLhyphen"/>in, or that they were <hi>B. B.</hi>'s <hi>quondam</hi> Friends; but that this ſcribling Prieſt <hi>B.</hi> would ſuggeſt theſe things, and inſinuate from them and King <hi>James</hi> being kind to us, that we were Papiſts, are not concluſive. I doubt not, but thoſe that are acquainted with our Principles, know them to be as remote from Popery, as <hi>B. B</hi>'s is from true Charity and Sincerity.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Tythes.</head>
+               <p>In <hi>p.</hi> 4. he ſaith, <q>Thou crieſt down Tythes as Jewiſh, tho' it was paid to <hi>Melcheſedeck</hi> by <hi>Abraham,</hi> while <hi>Levi</hi> was in his Loins, <hi>Heb.</hi> 7.</q> Again, <hi>ibid.</hi> 
+                  <q>Thou calleſt it a forc'd Mainte<g ref="char:EOLhyphen"/>nance, tho' it be given by the King and People in Parliament.</q>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I do ſay they are Jewiſh, and were given by the Levitical Law to the Prieſts of that Law; and verily they that are of the Sons of <hi>Levi,</hi> who receive the Office of the Prieſthood, have a Commandment to take Tythes of the People according to the Law; that is, of their Brethren tho' they come out of the Loins of <hi>Abraham, ver.</hi> 7. And it was not only for them, but the Stranger, and the Fatherleſs and the Widow, which are within the Gates, that were to come and Eat, and be ſatisfied with theſe Tythes.</p>
+               <p>Now if <hi>B. B.</hi> be of this Tribe, and appertaining to this Prieſt-hood, and under this Law, he ſhould kill Beaſt-Sacri<g ref="char:EOLhyphen"/>fice, and let the Poor, the Widow and the Fatherleſs, partake of the Tythe with him; but if he grants the Prieſthood is chang'd, he muſt acknowledge there is of neceſſity a change alſo of the Law.</p>
+               <p>The Law then being changed that gave them, its on his part to prove, That Chriſt in the New Teſtament did anew give them to his Goſpel Miniſters for their Mainte<g ref="char:EOLhyphen"/>nance, or enjoyn or direct his Followers to pay Tythes. Again, the Reaſon doth not remain, <hi>viz.</hi> the <hi>Levites</hi> had no
+<pb n="8" facs="tcp:172620:5"/>Inheritance among their Brethren, and their whole time was taken up in the Diſcharge of their Office; but now many that Chriſt hath called to be his Miniſters have Inhe<g ref="char:EOLhyphen"/>ritance among their Brethren, and Employments, by which, with the uſe of their own Hands, they can have, and do adminiſter to their own Neceſſities, as <hi>Paul</hi> did; altho' I do grant that the Labourer is worthy of his Hire, and that they who Preach the Goſpel ſhould live of the Goſpel, as I alſo do eſteem that ſuch, having Food and Rayment, ſhould therewith be content, and a ſufficient Support to ſuch, I acknowledge ought not to be wanting, in caſe they ſtand in need. But that Tythes are Chriſtian; or that <hi>Melchiſedec</hi>'s receiving the Tenth of the Spoils which <hi>Abraham</hi> freely gave him, proves Tythes Chriſtian or a Goſpel-Maintenance Or<g ref="char:EOLhyphen"/>dered, or ordained by Chriſt for his Miniſters, I deny: For he ſaid to them he ſent forth, <hi>Freely ye have received, freely give.</hi> And if <hi>B. B.</hi>'s Hearers freely give him the Tenths or Fifths I ſhall not quarrel with them for giving, nor him for receiving.</p>
+               <p>But a forced Maintenance from them, or to thoſe who do not Eſteem <hi>B. B.</hi> a Goſpel Miniſter, nor thoſe whoſe Spi<g ref="char:EOLhyphen"/>rit, Practice and Doctrin, declare the contrary; I ſay, a forced Maintenance from any, to ſuch that are not Goſpel Miniſters is not Scriptural.</p>
+               <p>And his pleading for Tithes by a humane Authority or Law to force them, is no Scripture Warrant, for Payment thereof in the Goſpel Day. Altho its a Chriſtian Duty for ſuch Paſſively and Patiently to ſuffer, when they are Proſe<g ref="char:EOLhyphen"/>cuted, becauſe they cannot for Conſcience ſake be Active in paying ſuch a forced Maintenance, to thoſe that falſly call themſelves Goſpel Miniſters; as many have greatly ſuffered by ſuch for a very ſmall matter demanded. But how agree<g ref="char:EOLhyphen"/>able to Chriſts Doctrin and his Miniſters Example, it was for <hi>B. B.</hi> or is for any ſuch as he, that do not Eſteem us to be Chriſtians, to ſue at Law, ſpoile Goods, Impriſon till Death, and endeavour to Ruin Men, Widows and their Fa<g ref="char:EOLhyphen"/>milies for Tithes toward their Maintenance, as ſome have: I leave to the truly Wiſe to Judge, and if he owns the Scriptures to be the only Rule of Faith and Practice, let him produce one Scripture to ſhew that ever any of Chriſts Miniſters ſo did to Jews or Gentiles that were or were not of them.</p>
+               <pb n="9" facs="tcp:172620:5"/>
+               <p>And I would have him know, its not the Law of the Land that ought always to oblige Chriſtians, and the Peo<g ref="char:EOLhyphen"/>ple of God, in every thing to be active in what it requires; neither are they juſtly condemnable for concientiouſly re<g ref="char:EOLhyphen"/>fuſing ſo to be in all things.</p>
+               <p>But <hi>B. B.</hi> ſaith, <hi>p.</hi> 5. <q>You may with as much Honeſty pick their Pockets as keep them away:</q> I deny that, for picking a Man's Pocket employs taking <hi>privily and thieviſhly that from him,</hi> which he hath honeſtly got or laboured for. And with-holding or ſubſtracting of Tythes, is only keeping that which he hath honeſtly laboured and been at Charge for, from him that did not labour for it.</p>
+               <p>
+                  <hi>P.</hi> 5. <q>How eaſie is it for any Seducer and Deceiver to pretend a Commiſſion?</q> This <hi>B. B.</hi> ſpeaketh with reſpect to falſe Miniſters; and no doubt but he is very ſenſible, that its eaſie for him or any Seducer and Deceiver as well as he, to pretend a Commiſſion to preach, if they have a little Learning, and can procure Induction and Ordination from a Biſhop, eſteem themſelves to be truly Ordained, although they have not the Laying on of the Hands of the Presbytery, and that they are Miniſters of the Goſpel, and have a Right to the Tenths of the People, as Pigs, Hens, Geeſe, Corn, Hay and Fruits; and if they have it not Quarterly, they'll, (like the falſe Prophets of Old, and like <hi>B. B.</hi>) ſue at Law, trouble, moleſt and prepare War againſt ſuch; then for treble Damages or Sequeſtration; and O! the Spoil, Ruin and Havock that theſe will make; that is, ſuch as <hi>B. B.</hi> although I believe there are thoſe of them that are more moderate, and tender and conſcientious, and that rather in<g ref="char:EOLhyphen"/>cline to take them in kind, than ſpend five times more than the pretended Dues to gain them ſo; for I have known that above 50 <hi>l.</hi> have been taken for 20 <hi>s.</hi> demanded for Tythes; and two Perſecuted for 7 and 8 Farthings, till the Charges have amounted to 17<hi>l.</hi> And if any can believe theſe, and ſuch like Doings, repreſents ſuch Proſecutors, true Goſpel-Mini<g ref="char:EOLhyphen"/>ſters, that take the Holy Scriptures <hi>only</hi> for their Rule of Faith and Practice therein, let them if they will; for my part, I ſhall rather believe, that thoſe that are called of God and ordained by Jeſus Chriſt, to this Work, are his Miniſters, although <hi>B. B.</hi> is ſo offended with me for ſaying, as he quotes me, <hi>p.</hi> 5. <hi>viz.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:172620:6"/>
+               <head>Concerning Ordination.</head>
+               <p>Thou ſayeſt, <hi>That God and Jeſus Chriſt only have Power to make Miniſters of the Goſpel, and ordain them to that Work.</hi>
+               </p>
+               <p>Yea truly, I am of that Mind; and if he believes any other have Power to make Goſpel Miniſters, and to ordain them to that Work, I Diſſent from him. And his finding fault with this implies, That he eſteems Men have Power to make Miniſters of the Goſpel, and ordain them to that Work, and not God and Jeſus Chriſt only. Is this agree<g ref="char:EOLhyphen"/>able to the Holy Scriptures? See <hi>John</hi> 21. where Chriſt ſays to his, <hi>As my Father hath ſent me, even ſo ſend I you.</hi> And ſaid <hi>Paul, I was ſent of God.</hi> By which it appears, it was God and Chriſt that ſent Goſpel-Miniſters.</p>
+               <p>But <hi>B B.</hi> quotes <hi>Titus</hi> 1.5, 6, 7. 1 <hi>Tim.</hi> 4.14. 2 <hi>Tim.</hi> 2.2. And becauſe <hi>Paul</hi> writ to <hi>Titus</hi> to ordain Elders, and the Presbyters laid on their Hands; and <hi>Paul</hi> adviſes <hi>Timothy</hi> to commit to faithful Men the things that he heared of him, who ſhall be able to teach others. <hi>B. B.</hi> would infer, That the Presbyters (or Biſhops now the Tide is turned) have Power to make Miniſters of the Goſpel, and ordain them to that Work, and is not willing to leave this only unto God and Jeſus Chriſt, but would have them eſteemed ſo quali<g ref="char:EOLhyphen"/>fied as to make and ordain Miniſters of the Goſpel. But if we have none of God's making, nor God and Chriſt's or<g ref="char:EOLhyphen"/>daining, I fear they will be ſuch that will run when God never ſent them; and that will ſay, <hi>Thus ſaith the Lord;</hi> when the Lord never ſpoke by them, and will not profit the People at all.</p>
+               <p>What he returns on me for aſſerting the true Miniſters are Ordained by God and Jeſus Chriſt; I retort on him, that we have nothing but his bare word for proof.</p>
+               <p>I did in my laſt, with reſpect to Ordination adviſe him not to prevaricate nor evade, but tell what Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> it was from whence he and his Brethren firſt had their Ordination. And the Reaſon I ſo adviſed him, was, becauſe he ſaid in his former, <q>We had Ordination in the Church of <hi>England,</hi> before <hi>Rome</hi> departed from the Faith.</q> Upon which I asked him, Whether it was a Proteſtant Church of <hi>England</hi> or a Popiſh, that they had Ordination in, before
+<pb n="11" facs="tcp:172620:6"/>
+                  <hi>Rome</hi> departed from the Faith? on which I adviſed him not to prevaricate nor evade, but tell what Church of <hi>England</hi> it was.</p>
+               <p>And now he ſaith, <q>The Goſpel was preached in this Iſland in the Primitive Times of Criſtianity, and that there were ſeven Biſhops among the <hi>Britains</hi> at the time of St. <hi>Auſtin</hi>'s Landing in <hi>Kent;</hi>
+                  </q> ſo that there was no need of going to <hi>Rome</hi> for Ordination. But what's this to the purpoſe? Were they a Proteſtant Church of <hi>England?</hi> And was it before <hi>Rome</hi> departed from the Faith? This is that he is to prove if he can; or can he prove a Succeſſion of Biſhops from the Apoſtle's Days, without going to <hi>Rome,</hi> I tro not.</p>
+               <p>And for a Retreat thither he begins to provide, ſaying, <hi>p.</hi> 6. <q>Notwithſtanding the Corruptions in the Church of <hi>Rome,</hi> their Ordination might not be ſo far corrupted, but that it might give Men a lawful Call to preach the Goſpel, and to reject their Errors.</q>
+               </p>
+               <p>So, ſhe may be corrupted; yet this corrupt Romiſh Church may give Men a lawful Call to preach the Goſpel; and then thoſe, ſo lawfully Called, may turn againſt her, and take her Tythes, Profits, Glebe-lands and Church-lands from her, turn her out, and call her Whore into the Bargain. And hold they are true Sons ordained of the corrupted Whore, that's apoſtatized from the Chriſtian Faith and Doctrin to preach the Goſpel, to rail at her, to revile, ſue and moleſt others, and in ſcorn, with deſign, to blacken them, as <hi>B. B.</hi> doth the Quakers; ſaying, <q>Your Synagogue will, in a little time, be annexed to the Mother Church, and to believe as the Church of <hi>Rome</hi> believes;</q> which, ſaith he, <hi>p.</hi> 2. is a Popiſh Foundation of Faith.</p>
+               <p>Then let <hi>B. B.</hi> conſider, Whether he is not already join<g ref="char:EOLhyphen"/>ed to his Mother, whatever his Synagogue is? And whe<g ref="char:EOLhyphen"/>ther he hath not a Popiſh Foundation of Faith, if he believe as the Church of <hi>Rome</hi> doth; and, That they have Power to make Miniſters of the Goſpel, and ordain them to that Work. Let the Sober and Judicious determin, Whether this be agreeable either to Truth, or the Scriptures of Truth. And ſeeing B. <hi>Bird</hi> is ſo highly offended with me, for ſaying, <hi>God and Jeſus Chriſt only have Power to make Mini<g ref="char:EOLhyphen"/>ſters of the Goſpel, and ordain them to that Work.</hi> I will refer
+<pb n="12" facs="tcp:172620:7"/>him to <hi>Jus Divinum Miniſterii Evangelici,</hi> publiſhed by the Provincial Aſſembly of <hi>London,</hi> his <hi>quondam</hi> Friends, ſay<g ref="char:EOLhyphen"/>ing on this Subject, <hi>p.</hi> 168. <q>For we know it is the Prero<g ref="char:EOLhyphen"/>gative Royal of the Lord Jeſus Chriſt, to appoint Offices and Officers in his Church. It is Chriſt ONLY that in<g ref="char:EOLhyphen"/>ſtitutes the Office, and that furniſheth and fitreth Men with Graces and Abilities for the Diſcharge of ſo great an Imployment, with willing and ready Minds to give up themſelves to ſo holy Services. It is Chriſt ONLY that ſets the Laws and Rules, according to which they muſt act.</q> And ſeeing <hi>B. B.</hi> is ſuch a buſie and officious Scribler, that buſieth himſelf in others Quarrels, let him quarrel with this alſo if he pleaſe, and ſeek to confute it.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Baptiſm.</head>
+               <p>
+                  <hi>P.</hi> 5. <hi>B. B.</hi> ſaith, <q>Chriſt's Miniſters baptize with Wa<g ref="char:EOLhyphen"/>ter, in the Name of the Father, Son and Holy Ghoſt, ac<g ref="char:EOLhyphen"/>cording to their Commiſſion, <hi>Mat.</hi> 28.19.</q> 
+                  <q>And admini<g ref="char:EOLhyphen"/>ſter the Sacrament of the Lord's Supper, according to his own Inſtitution, 1 <hi>Cor.</hi> 11.23, 24, 25, 26.</q>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I deny that thoſe that baptize with Water, do it according to the Commiſſion which Chriſt gave to his Diſ<g ref="char:EOLhyphen"/>ciples, <hi>Matth.</hi> 28.19, 20. I may repeat the foregoing Words and the Commiſſion. <hi>All Power</hi> (ſaid Jeſus) <hi>is given unto me in Heaven and Earth; Go ye therefore and teach all Na<g ref="char:EOLhyphen"/>tions, baptizing them in the Name of the Father, the Son and the Holy Ghoſt; teaching them to obſerve all things whatſoever I have commanded you; and lo, I am with you to the end of the World.</hi> Amen. Now obſerve, there is no mention of Water, there<g ref="char:EOLhyphen"/>fore they that baptize with Water, do it not according to the expreſs Words of Chriſt's Commiſſion.</p>
+               <p>Again obſerve, That Teaching goes before Baptizing; and that Infants are not capable of ſuch Teaching; and the end of their Teaching was to obſerve all things whatſoever Chriſt commanded, which Infants are not capable to do, nor any according to <hi>B. Bird;</hi> for he ſaith, <hi>We may not live without ſiin, and that its impoſſible to keep God's Commands:</hi> And if this Prieſt <hi>Bird</hi> be not made and ordained a Miniſter by God, and ſent by Jeſus Chriſt, he is not Commiſſioned to either Teach or Baptize. And till he proves himſelf a Goſpel Miniſter,
+<pb n="13" facs="tcp:172620:7"/>truly Ordained and rightly Commiſſioned to Preach and Baptize with Water. I need not enlarge on this Head, only I do acknowledge, for ſatisfaction of others, That I do be<g ref="char:EOLhyphen"/>lieve that Chriſt's Miniſters are to teach all Nations, bap<g ref="char:EOLhyphen"/>tizing them in, or into the Name of the Father, the Son and Holy Ghoſt, and that all thoſe that are ſo Baptized, are in, through and by that Name, Power and Spirit, made Members of that Body, of which Chriſt is the Head, and of that Church which is in God the Father of our Lord Jeſus Chriſt.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the Supper.</head>
+               <p>I do alſo deny that 1 <hi>Cor.</hi> 11.23, 24, 25, 26. proves Chriſt Inſtitution of the Supper, but is a Repitition of what Chriſt did before his Crucifixion, at the cloſe of the Feaſt of the Paſſover; and none of the Evangeliſts, that give an account thereof, make any mention that Chriſt ſaid, <hi>As often as ye eat this Bread and drink this Cup, ye do ſhew forth the Lords death till he come.</hi>
+               </p>
+               <p>
+                  <hi>Luke</hi> 21.9. doth indeed give an Account that Chriſt ſaid, <hi>Do this in remembrance of me;</hi> but limits no time. And <hi>Good<g ref="char:EOLhyphen"/>win</hi> in his Antiquities, <hi>Lib.</hi> 3. <hi>Cap.</hi> 2. <hi>p.</hi> 110. ſhews it was a Jewiſh Rite or Ceremony; which Chriſt uſing, altho' he va<g ref="char:EOLhyphen"/>ried ſomething from their Form, as being minded to ſpiritu<g ref="char:EOLhyphen"/>alize his Diſciples, and by that to ſhew forth to them, that his Body was to be broke and his Blood ſhed for them, and the Sins of the World. Yet he told them, as we may read <hi>John</hi> 6.53. to 57. Jeſus ſaith, <hi>Verily, verily, I ſay unto you, Except ye eat the Fleſh of the Son of Man, and drink his Blood, ye have no Life in you:</hi> And alſo ſaith, <hi>He that eateth my Fleſh and drinketh my Blood, dwelleth in me, and I in him.</hi> Which plainly ſhews, none can have Life in them or be true Chriſtians, but who ſo do; and thoſe that ſo do he dwelleth in, and they in him. And no doubt but thoſe in whom he dwells, will, by his Spirit (which he ſaith to his Diſciples, <hi>ſhall bring all things to your remembrance</hi>) have theſe things brought to their re<g ref="char:EOLhyphen"/>membrance, and it will keep them, as they live therein, in a living and ſenſible remembrance of the great Love of God in ſending his Son, and the great Love of Chriſt in having his Body broke and his Blood ſhed for us: and this Spirit will fill the Hearts and Mouths of ſuch with a Hymn of Praiſes
+<pb n="14" facs="tcp:172620:8"/>and a Song of Thanksgiving unto the Lord God and the Lamb, that was dead and is alive, and lives for evermore.</p>
+               <p>So by theſe the ſubſtance is enjoyed; and then what ne<g ref="char:EOLhyphen"/>ceſſity is there for ſuch to retain the uſe of the outward and viſible Sign, when the inward and Spiritual Grace is re<g ref="char:EOLhyphen"/>ceiv'd? Or can any think that the Spirit will not do what Chriſt ſaid it ſhould? Or, that the uſe of the Sign is of ab<g ref="char:EOLhyphen"/>ſolute neceſſity to bring them to the right performance and full diſcharge of that Duty and Worſhip that's due to God, which is in the Spirit and in the Truth, and can be only and alone acceptably performed to God and Chriſt in the Spirit, according to Chriſt's Words? Or muſt that ſpiritual Wor<g ref="char:EOLhyphen"/>ſhip be compleated by Signs and Figures, which were made uſe of in the time of the Law, and were the Shadows of the good Things, but the Subſtance was Chriſt? And if the Lord gives us him, will he not with him give us all things? And what lack then can there be to ſuch that knows him to dwell in their Hearts by Faith, in whom the Treaſures of Wiſdom are hid, and in whom all Fulneſs dwells? Surely its well with theſe: <hi>And except Jeſus Chriſt be in us</hi> doth not <hi>Paul</hi> ſay, <hi>me are Reprobates.</hi> Oh read ſeriouſly theſe Things, and conſider and ponder them, and the Lord give all, by his Holy Spirit, an Underſtanding, that they may be wiſe to the Salvation of their Souls, and yet not above what's writ<g ref="char:EOLhyphen"/>ten: For thoſe that own the Scriptures to be the only Rule of Faith and Practice, and that all Doctrins are to be plain<g ref="char:EOLhyphen"/>ly proved by them, ſhould bring expreſs Scriptures for thoſe things which they eſteem Chriſt's Inſtitutions and his Ordinances, or otherwiſe never preſs them on thoſe that by the Scripture, nor the Spirit of God in themſelves, are enjoined or led thereunto. Oh therefore that all might come to have their Minds turned from Darkneſs to Light, and from Satan's Power unto God, that thereby they might receive and believe in the Lord Jeſus Chriſt; come and ſee their States as they really are in the ſight of of God, and be made truly ſenſible of their own Weakneſs, Blindneſs and Ignorance, and through Obedience thereto and by walking therein, and being inſpired by God's holy Spirit, have a clear Underſtanding and a right Judgment in all things, and Experience, a receiving Power to become the Sons of God; and by walking in this Light of Jeſus Chriſt (ſo much
+<pb n="15" facs="tcp:172620:8"/>oppoſed and hated by thoſe that do Evil) might know Fel<g ref="char:EOLhyphen"/>lowſhip with God and the Blood of Chriſt, to cleanſe them from all Unrighteouſneſs; that being God's Children, he might feed them with that living Bread, whereby they may be nouriſhed up unto Eternal Life; which is my hearty de<g ref="char:EOLhyphen"/>ſire for <hi>B. B.</hi> and all People, notwithſtanding it is our (as it ever was the Lot of the Followers of Chriſt) to meet with many Tribulations, and endure a great fight of Af<g ref="char:EOLhyphen"/>flictions, and to go through cruel Mockings, and eſteemed falſe, when true; movers of Sedition, when they ſought Peace and enſued it; and to be evil ſpoken of, and to have our way every where ſpoken againſt; and the ſlanderous Tongues and Pens of Malicious Men, exerciſed and employ'd againſt us; and when they have caſt forth their Lies and Slan<g ref="char:EOLhyphen"/>ders, like Floods, one to quote another, as if our Accuſers were to be our Judges; for this <hi>B. B.</hi> he quotes <hi>F. Bugg, T. Criſp, George Keith</hi> and the <hi>Snake in the Graſs;</hi> and they again quote one another; ſo that the Authority is <hi>ſemper ibi<g ref="char:EOLhyphen"/>dem,</hi> the bare confident Say-ſo's, and falſe Accuſations of our apparent Enemies and enviovs Apoſtates.</p>
+               <p>Now, if I ſhould quote for Proofs againſt the Church of <hi>England,</hi> what the Presbyterians ſay and write againſt them, or what the Papiſts write againſt them, would it be taken for good proof? If ſo, I ſhould ſoon render them not only Innovators, Ceremony-mongers and Apoſtates, but Here<g ref="char:EOLhyphen"/>ticks and no true Chriſtians. But alas! for want of better Proofs, B. B. is forc'd to bring what our refuted Adverſaries ſay, and then inſinuate on his own Authority, that we are no Chriſtians. Oh the confidence of this Prieſt! For if ſo, tho' a Presbyterian, an Independant, or an Anabaptiſt, he would own me. And yet how hath he and ſome of his Bre<g ref="char:EOLhyphen"/>thren, perſecuted both Presbyterians, Independants and Anabaptiſts, for their Non conformity to their Church. Oh! the Deceit and Hypocriſie of this Man! thus to collogue with them; What Thanks will the Church of <hi>England</hi> give him for this? Was the breaking up their Meetings, Fining and Impriſoning them, and thundering out Bulls of Excom<g ref="char:EOLhyphen"/>munication againſt them, by the Church of <hi>England,</hi> becauſe they were Chriſtians? Or is that the Bread that ſuch Prote<g ref="char:EOLhyphen"/>ſtant Miniſters did break to them and People, as B. B. brags of, <hi>p.</hi> 7. Or was this the Bread that Chriſt and his Apoſtles
+<pb n="16" facs="tcp:172620:9"/>did break to the latter? I ſay nay. And therefore <hi>B. B.</hi> thou art rhe unnatural Father, that gives Stone-walls rather than Bread, that cauſe People to be incloſed between them for Nonconformity to your Church, or for not putting into your Mouths, whereby many have been prevented to get Bread for themſelves and Families. Surely, I may retort and ſay, No wiſe Man will part with his Ingenuity for ſuch a Perſecutors Chri<g ref="char:EOLhyphen"/>ſtianity; but <hi>B. B.</hi> hath ſo little of either to part with, that he need not fear being deprived. For in his laſt he complains, <q>That his worthy Friend, or ſome other, clapt a Title to his former without his Previty; for what he did was in a private Letter to a Friend, upon whoſe Requeſt it was printed without my privity, and the Title is not mine; I was meerly drawn in to bring up the Rear, ſaid <hi>B. B.</hi>
+                  </q> And now he complains I have not Anſwered his 1ſt Sheet, which was a Letter to his Ingenious Mr. <hi>Clap.</hi> Oh! how he commends his Mr. <hi>Clap</hi> now, and before complains, he was drawn in to bring up the Rear.</p>
+               <p>I wiſh his worthy Mr. <hi>Clap</hi> and he did ſhew more Chriſtia<g ref="char:EOLhyphen"/>nity and Ingenuity, than to be ſo officious and buſied beſides their Buſineſs, to encourage one another in ſuch an evil Work of belying and falſly miſrepreſenting the People called Quakers and their Principles, which I hope in this and my former I have ſhew'd <hi>B. B.</hi> hath (with his Mr. <hi>Clap</hi>'s Aſſiſtance) as if he was minded to do ſomething to pleaſure his old Friends the Presbyterians, who, in their Day, was as buſy, as bitter in perſecuting the Quakers when they had Power, as now to re<g ref="char:EOLhyphen"/>vile and falſly accuſe them, and like <hi>Herod</hi> and <hi>Pilate</hi> can agree in this evil Work: Yet the worſt I wiſh them is unfeigned Repentance to the acknowledgment of the Truth, and that they might by true Love and Chriſtian Converſation, coupled with God's holy Fear, by ſound Doctrin and clear Proofs from the Holy Scriptures, without their corrupt Meanings and falſe Gloſſes, approve themſelves true Chriſtians, and demonſtrate thereby their Doctrins and Practices to be agreeable thereto. And for his adviſing me to read <hi>The Snake in the Graſs;</hi> I anſwer, I have; and find that Author is one of his Brethren, exerciſed in the ſame evil Work, of miſrepreſenting the Peo<g ref="char:EOLhyphen"/>ple called Quakers and their Doctrins, and quoting for proof ſuch Pooks writ againſt them, that have been already an<g ref="char:EOLhyphen"/>ſwer'd, as he may alſo in a ſhort time ſee that Book anſwer'd, which then I would have him read the Anſwer as I have the Book.</p>
+            </div>
+            <closer>
+               <dateline>Lond. <date>Octob. 12. 1696.</date>
+               </dateline>
+               <signed>JOHN FEILD.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
